@@ -1,3 +1,9 @@
+macro_pw: macro_pw{
+compatible = "zmk,behavior-macro";
+label = "macro_pw";
+#binding-cells = <0>;
+bindings = <&kp LC(EQUAL)>, <&kp LS(K)>, <&kp E>, <&kp Y>, <&kp B>, <&kp O>, <&kp A>, <&kp R>, <&kp D>, <&kp NUMBER_5>, <&kp NUMBER_3>, <&kp NUMBER_1>, <&kp Q>;
+};
 macro_carsten: macro_carsten{
 compatible = "zmk,behavior-macro";
 label = "macro_carsten";
