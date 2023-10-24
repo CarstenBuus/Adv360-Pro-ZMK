@@ -8,7 +8,7 @@ macro_ups: macro_ups{
 compatible = "zmk,behavior-macro";
 label = "macro_ups";
 #binding-cells = <0>;
-bindings = <&kp LS(P)>, <&kp L>, <&kp E>, <&kp A>, <&kp S>, <&kp E>, <&kp SPACE>, <&kp S>, <&kp H>, <&kp I>, <&kp P>, <&kp SPACE>, <&kp U>, <&kp P>, <&kp S>, <&kp SPACE>, <&kp LS(G)>, <&kp R>, <&kp O>, <&kp U>, <&kp N>, <&kp D>, <&kp SPACE>, <&kp O>, <&kp N>, <&kp SPACE>, <&kp A>, <&kp C>, <&kp C>, <&kp O>, <&kp U>, <&kp N>, <&kp T>, <&kp SPACE>, <&kp LS(N3)>, <&kp NUMBER_5>, <&kp N6>, <&kp LS(W)>, <&kp N6>, <&kp N7>, <&kp N9>;
+bindings = <&kp LS(P)>, <&kp L>, <&kp E>, <&kp A>, <&kp S>, <&kp E>, <&kp SPACE>, <&kp S>, <&kp H>, <&kp I>, <&kp P>, <&kp SPACE>, <&kp U>, <&kp P>, <&kp S>, <&kp SPACE>, <&kp LS(G)>, <&kp R>, <&kp O>, <&kp U>, <&kp N>, <&kp D>, <&kp SPACE>, <&kp O>, <&kp N>, <&kp SPACE>, <&kp A>, <&kp C>, <&kp C>, <&kp SPACE>, <&kp LS(N3)>, <&kp NUMBER_5>, <&kp N6>, <&kp LS(W)>, <&kp N6>, <&kp N7>, <&kp N9>;
 };
 macro_pw: macro_pw{
 compatible = "zmk,behavior-macro";
